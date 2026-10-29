@@ -1,0 +1,503 @@
+{
+  "benefits": [
+    {
+      "description": "Tüm Alışverişlerde",
+      "image": {
+        "alt": "Ücretsiz Kargo",
+        "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/ucretsiz-kargo-8ce7.jpg"
+      },
+      "title": "Ücretsiz Kargo"
+    },
+    {
+      "description": "Ödeme Bilgilerinizi Kaydedin",
+      "image": {
+        "alt": "Güvenli Alışveriş",
+        "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/guvenli-alisveris-3249.jpg"
+      },
+      "title": "Güvenli Alışveriş"
+    },
+    {
+      "description": "Hiç Bu Kadar Kolay Olmamıştı",
+      "image": {
+        "alt": "Kolay İade",
+        "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/kolay-iade-6836.jpg"
+      },
+      "title": "Kolay İade"
+    },
+    {
+      "description": "Ürünlerinize Doyasıya Taksit Yapın",
+      "image": {
+        "alt": "12 Taksit Fırsatı",
+        "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/12-taksit-firsati-5107.jpg"
+      },
+      "title": "12 Taksit Fırsatı"
+    }
+  ],
+  "bottom": [
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/elektrikli-sinek-oldurucu",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-acae.jpg"
+    },
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/elektrikli-sinek-oldurucu",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-015c.jpg"
+    }
+  ],
+  "categories": [
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/kucuk-ev-altletri",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-07df.jpg"
+    },
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/elektrikli-sinek-oldurucu",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-9747.jpg"
+    },
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/kucuk-ev-altletri",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-86f7.jpg"
+    }
+  ],
+  "collections": [
+    {
+      "id": "urunblok_3",
+      "products": [
+        {
+          "badge": "",
+          "category": "Yumurta Haşlama Makinesi",
+          "href": "https://www.rowenger.com/rowenger-smartegg-yumurta-haslama-makinesi-yumurta-pisirici-led-gostergeli-4-kivamda-pisirme-ro-08b",
+          "image": {
+            "alt": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08B",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-smartegg-yumurta-haslama-maki--d92a8.png"
+          },
+          "name": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08B",
+          "price": "₺1.179,61",
+          "text": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08B\n₺1.179,61\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "Yumurta Haşlama Makinesi",
+          "href": "https://www.rowenger.com/rowenger-smartegg-yumurta-haslama-makinesi-yumurta-pisirici-led-gostergeli-4-kivamda-pisirme-ro-08s",
+          "image": {
+            "alt": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08S",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-smartegg-yumurta-haslama-maki-23e1e6.png"
+          },
+          "name": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08S",
+          "price": "₺1.279,61",
+          "text": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08S\n₺1.279,61\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "KÜÇÜK EV ALETLERİ",
+          "href": "https://www.rowenger.com/rowenger-row-500-misir-patlatma-makinesi-yagsiz-ve-saglikli-popcorn-100gr-kapasite1",
+          "image": {
+            "alt": "Rowenger ROW-500 Mısır Patlatma Makinesi Yağsız Ve Sağlıklı Popcorn 100gr Kapasite",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-row-500-misir-patlatma-makine-602-53.jpeg"
+          },
+          "name": "Rowenger ROW-500 Mısır Patlatma Makinesi Yağsız Ve Sağlıklı Popcorn 100gr Kapasite",
+          "price": "₺1.747,61",
+          "text": "Rowenger ROW-500 Mısır Patlatma Makinesi Yağsız Ve Sağlıklı Popcorn 100gr Kapasite\n₺1.747,61\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "Yeni Ürün",
+          "category": "KÜÇÜK EV ALETLERİ",
+          "href": "https://www.rowenger.com/rowenger-3in1-1200-watt-smoothie-blender-kisisel-blender-cam-surahi-blender-meyve-sikacagi",
+          "image": {
+            "alt": "Rowenger 3in1 1200 watt Smoothie Blender Kişisel Blender Cam Sürahi Blender Meyve Sıkacağı",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-3in1-1200-watt-smoothie-blend-20-4eb.jpeg"
+          },
+          "name": "Rowenger 3in1 1200 watt Smoothie Blender Kişisel Blender Cam Sürahi Blender Meyve Sıkacağı",
+          "price": "₺2.379,61",
+          "text": "Rowenger 3in1 1200 watt Smoothie Blender Kişisel Blender Cam Sürahi Blender Meyve Sıkacağı\n₺2.379,61\n Favorilere Ekle\nÜCRETSİZ KARGO\nYeni Ürün"
+        },
+        {
+          "badge": "",
+          "category": "KÜÇÜK EV ALETLERİ",
+          "href": "https://www.rowenger.com/rowenger-",
+          "image": {
+            "alt": "Rowenger 5000 Serisi Premium El Blender 1500watt Paslanmaz Çelik Hand Blender Çubuk Blender",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-5000-serisi-premium-el-blende-4eef-a.jpeg"
+          },
+          "name": "Rowenger 5000 Serisi Premium El Blender Seti 1500watt Paslanmaz Çelik",
+          "price": "₺1.579,61",
+          "text": "Rowenger 5000 Serisi Premium El Blender Seti 1500watt Paslanmaz Çelik\n₺1.579,61\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        }
+      ],
+      "title": "YENİ GELENLER"
+    },
+    {
+      "id": "urunblok_4",
+      "products": [
+        {
+          "badge": "",
+          "category": "ELEKTRİKLİ SİVRİSİNEK ÖLDÜRÜCÜ",
+          "href": "https://www.rowenger.com/rowenger-wd-942-usb-sarjli-uv-isikli-elektrikli-sivrisinek-oldurucu-raket-sinek-oldurucu-sineksavar",
+          "image": {
+            "alt": "Rowenger WD-942 USB Şarjlı Uv Işıklı Elektrikli Sivrisinek Öldürücü Raket Sinek Öldürücü Sineksavar",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-wd-942-usb-sarjli-uv-isikli-e-71-b97.jpeg"
+          },
+          "name": "Rowenger WD-942 USB Şarjlı Uv Işıklı Elektrikli Sivrisinek Öldürücü Raket Sinek Öldürücü Sineksavar",
+          "price": "₺879,61",
+          "text": "Rowenger WD-942 USB Şarjlı Uv Işıklı Elektrikli Sivrisinek Öldürücü Raket Sinek Öldürücü Sineksavar\n₺879,61\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "ELEKTRİKLİ SİVRİSİNEK ÖLDÜRÜCÜ",
+          "href": "https://www.rowenger.com/rowenger-m15-20w-uv-isikli-elektrikli-sivrisinek-oldurucu-lamba-sinek-oldurucu-kovucu-sineksavar-ciz",
+          "image": {
+            "alt": "Rowenger M15 20W UV Işıklı Elektrikli Sivrisinek Öldürücü Lamba Sinek Öldürücü Kovucu Sineksavar Cız",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-m15-20w-uv-isikli-elektrikli--32-9db.png"
+          },
+          "name": "Rowenger M15 20W UV Işıklı Elektrikli Sivrisinek Öldürücü Lamba Sinek Öldürücü Kovucu Sineksavar Cız",
+          "price": "₺1.699,00",
+          "text": "Rowenger M15 20W UV Işıklı Elektrikli Sivrisinek Öldürücü Lamba Sinek Öldürücü Kovucu Sineksavar Cız\n₺1.699,00\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "KÜÇÜK EV ALETLERİ",
+          "href": "https://www.rowenger.com/rowenger-smoothie-blender-matarasi-sisesi-yedek-smoothie-sisesi-sporcu-sisesi",
+          "image": {
+            "alt": "Rowenger Smoothie Blender Matarası Şişesi Yedek Smoothie Şişesi Sporcu Şişesi",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-smoothie-blender-matarasi-sis-de6-44.jpeg"
+          },
+          "name": "Rowenger Smoothie Blender Matarası Şişesi Yedek Smoothie Şişesi Sporcu Şişesi",
+          "price": "₺289,00",
+          "text": "Rowenger Smoothie Blender Matarası Şişesi Yedek Smoothie Şişesi Sporcu Şişesi\n₺289,00\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "KÜÇÜK EV ALETLERİ",
+          "href": "https://www.rowenger.com/rowenger-slow-juicer-yavas-sikim-kati-meyve-sikacagi-soguk-sikim-meyve-sikacagi",
+          "image": {
+            "alt": "Rowenger Slow Juicer Yavaş Sıkım Katı Meyve Sıkacağı Soğuk Sıkım Meyve Sıkacağı",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-slow-juicer-yavas-sikim-kati--70f0bb.jpeg"
+          },
+          "name": "Rowenger Slow Juicer Yavaş Sıkım Katı Meyve Sıkacağı Soğuk Sıkım Meyve Sıkacağı",
+          "price": "₺3.989,00",
+          "text": "Rowenger Slow Juicer Yavaş Sıkım Katı Meyve Sıkacağı Soğuk Sıkım Meyve Sıkacağı\n₺3.989,00\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "ELEKTRİKLİ SİVRİSİNEK ÖLDÜRÜCÜ",
+          "href": "https://www.rowenger.com/rowenger-ma15c-uv-led-isikli-5200mah-sarjli-elektrikli-sivrisinek-oldurucu-lamba-sinek-oldurucu",
+          "image": {
+            "alt": "Rowenger MA15C UV-LED Işıklı 5200mAh Şarjlı + Elektrikli Sivrisinek Öldürücü Lamba Sinek Öldürücü",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-ma15c-uv-led-isikli-5200mah-s-0509ed.jpeg"
+          },
+          "name": "Rowenger MA15C UV-LED Işıklı 5200mAh Şarjlı + Elektrikli Sivrisinek Öldürücü Lamba Sinek Öldürücü",
+          "price": "₺1.799,00",
+          "text": "Rowenger MA15C UV-LED Işıklı 5200mAh Şarjlı + Elektrikli Sivrisinek Öldürücü Lamba Sinek Öldürücü\n₺1.799,00\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "ELEKTRİKLİ SİVRİSİNEK ÖLDÜRÜCÜ",
+          "href": "https://www.rowenger.com/rowenger-mo8c-uv-led-isikli-elektrikli-sinek-oldurucu-ic-dis-mekan-hasere-sivrisinek-oldurucu-lamba",
+          "image": {
+            "alt": "Rowenger MO8C UV-LED Işıklı Elektrikli Sinek Öldürücü İç Dış Mekan Haşere Sivrisinek Öldürücü  Lamba",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-mo8c-uv-led-isikli-elektrikli-46f9-b.jpg"
+          },
+          "name": "Rowenger MO8C UV-LED Işıklı Elektrikli Sinek Öldürücü İç Dış Mekan Haşere Sivrisinek Öldürücü  Lamba",
+          "price": "₺1.189,71",
+          "text": "Rowenger MO8C UV-LED Işıklı Elektrikli Sinek Öldürücü İç Dış Mekan Haşere Sivrisinek Öldürücü Lamba\n₺1.189,71\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "Ütü",
+          "href": "https://www.rowenger.com/rowenger-nb301-mini-seyahat-utusu-cift-voltaj-dunya-capinda-kullanima-uygun2",
+          "image": {
+            "alt": "Rowenger NB301 Mini Seyahat Ütüsü Çift Voltaj Dünya Çapında Kullanıma Uygun",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-nb301-mini-seyahat-utusu-cift-c-3bdd.jpeg"
+          },
+          "name": "Rowenger NB301 Mini Seyahat Ütüsü Çift Voltaj Dünya Çapında Kullanıma Uygun",
+          "price": "₺1.049,00",
+          "text": "Rowenger NB301 Mini Seyahat Ütüsü Çift Voltaj Dünya Çapında Kullanıma Uygun\n₺1.049,00\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "Ütü",
+          "href": "https://www.rowenger.com/rowenger-nb301y-mini-seyahat-utusu-cift-voltaj-dunya-capinda-kullanima-uygun1",
+          "image": {
+            "alt": "Rowenger NB301Y Mini Seyahat Ütüsü Çift Voltaj Dünya Çapında Kullanıma Uygun",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-nb301y-mini-seyahat-utusu-cif-47a68-.jpeg"
+          },
+          "name": "Rowenger NB301Y Mini Seyahat Ütüsü Çift Voltaj Dünya Çapında Kullanıma Uygun",
+          "price": "₺1.049,00",
+          "text": "Rowenger NB301Y Mini Seyahat Ütüsü Çift Voltaj Dünya Çapında Kullanıma Uygun\n₺1.049,00\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "Yeni Ürün",
+          "category": "Narenciye Sıkacakları",
+          "href": "https://www.rowenger.com/rowenger-d-8036f-600watt-elektrikli-narenciye-sikacagi-portakal-sikacagi-meyve-sikacagi",
+          "image": {
+            "alt": "Rowenger D-8036F 600watt Elektrikli Narenciye Sıkacağı Portakal Sıkacağı Meyve Sıkacağı",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-d-8036f-600watt-elektrikli-na-db9ee8.jpeg"
+          },
+          "name": "Rowenger D-8036F 600watt Elektrikli Narenciye Sıkacağı Portakal Sıkacağı Meyve Sıkacağı",
+          "price": "₺1.799,00",
+          "text": "Rowenger D-8036F 600watt Elektrikli Narenciye Sıkacağı Portakal Sıkacağı Meyve Sıkacağı\n₺1.799,00\n Favorilere Ekle\nÜCRETSİZ KARGO\nYeni Ürün"
+        },
+        {
+          "badge": "",
+          "category": "Narenciye Sıkacakları",
+          "href": "https://www.rowenger.com/rowenger-d-8028a-inox-narenciye-sikacagi-meyve-sikacagi-portakal-sikacagi",
+          "image": {
+            "alt": "Rowenger D-8028A İnox Narenciye Sıkacağı Meyve Sıkacağı Portakal Sıkacağı",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-d-8028a-inox-narenciye-sikaca-5ede-4.jpeg"
+          },
+          "name": "Rowenger D-8028A İnox Narenciye Sıkacağı Meyve Sıkacağı Portakal Sıkacağı",
+          "price": "₺899,00",
+          "text": "Rowenger D-8028A İnox Narenciye Sıkacağı Meyve Sıkacağı Portakal Sıkacağı\n₺899,00\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "Yeni Ürün",
+          "category": "KÜÇÜK EV ALETLERİ",
+          "href": "https://www.rowenger.com/rowenger-3in1-1200-watt-smoothie-blender-kisisel-blender-cam-surahi-blender-meyve-sikacagi",
+          "image": {
+            "alt": "Rowenger 3in1 1200 watt Smoothie Blender Kişisel Blender Cam Sürahi Blender Meyve Sıkacağı",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-3in1-1200-watt-smoothie-blend-20-4eb.jpeg"
+          },
+          "name": "Rowenger 3in1 1200 watt Smoothie Blender Kişisel Blender Cam Sürahi Blender Meyve Sıkacağı",
+          "price": "₺2.379,61",
+          "text": "Rowenger 3in1 1200 watt Smoothie Blender Kişisel Blender Cam Sürahi Blender Meyve Sıkacağı\n₺2.379,61\n Favorilere Ekle\nÜCRETSİZ KARGO\nYeni Ürün"
+        },
+        {
+          "badge": "",
+          "category": "Yumurta Haşlama Makinesi",
+          "href": "https://www.rowenger.com/rowenger-smartegg-yumurta-haslama-makinesi-yumurta-pisirici-led-gostergeli-4-kivamda-pisirme-ro-08s",
+          "image": {
+            "alt": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08S",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-smartegg-yumurta-haslama-maki-23e1e6.png"
+          },
+          "name": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08S",
+          "price": "₺1.279,61",
+          "text": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08S\n₺1.279,61\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        },
+        {
+          "badge": "",
+          "category": "Yumurta Haşlama Makinesi",
+          "href": "https://www.rowenger.com/rowenger-smartegg-yumurta-haslama-makinesi-yumurta-pisirici-led-gostergeli-4-kivamda-pisirme-ro-08b",
+          "image": {
+            "alt": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08B",
+            "src": "https://static.ticimax.cloud/65809/Uploads/UrunResimleri/thumb/rowenger-smartegg-yumurta-haslama-maki--d92a8.png"
+          },
+          "name": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08B",
+          "price": "₺1.179,61",
+          "text": "Rowenger Smartegg Yumurta Haşlama Makinesi Yumurta Pişirici Led Göstergeli 4 Kıvamda Pişirme RO-08B\n₺1.179,61\n Favorilere Ekle\nÜCRETSİZ KARGO"
+        }
+      ],
+      "title": "Çok Satanlar"
+    }
+  ],
+  "copyright": "© 2024  rowenger.com - Tüm Hakları Saklıdır.",
+  "footer": [
+    {
+      "links": [
+        {
+          "href": "https://www.rowenger.com/hakkimizda",
+          "text": "Hakkımızda"
+        },
+        {
+          "href": "https://www.rowenger.com/gizlilik-politikasi",
+          "text": "Gizlilik Politikası"
+        },
+        {
+          "href": "https://www.rowenger.com/",
+          "text": "KVKK Hakkında Bilgilendirme"
+        },
+        {
+          "href": "https://www.rowenger.com/",
+          "text": "Mağazalarımız"
+        },
+        {
+          "href": "https://www.rowenger.com/iletisim",
+          "text": "İletişim"
+        }
+      ],
+      "title": "HAKKIMIZDA"
+    },
+    {
+      "links": [
+        {
+          "href": "https://www.rowenger.com/iade-ve-",
+          "text": "İade ve Değişim Koşulları"
+        },
+        {
+          "href": "https://www.rowenger.com/cerez-cokie-kullanim",
+          "text": "Çerez(Cookie) Kullanımı"
+        },
+        {
+          "href": "https://www.rowenger.com/mesafeli-satis-sozlesmesi",
+          "text": "Mesafeli Satış Sözleşmesi"
+        }
+      ],
+      "title": "ALIŞVERİŞ BİLGİLERİ"
+    },
+    {
+      "links": [
+        {
+          "href": "https://www.rowenger.com/teslimat-kosullari",
+          "text": "Teslimat Koşulları"
+        },
+        {
+          "href": "https://www.rowenger.com/guvenli-alisveris",
+          "text": "Güvenli Alışveriş"
+        },
+        {
+          "href": "https://www.rowenger.com/uyelik-islemleri",
+          "text": "Üyelik İşlemleri"
+        },
+        {
+          "href": "https://www.rowenger.com/garanti-sartlari",
+          "text": "Garanti Şartları"
+        }
+      ],
+      "title": "BİLGİLENDİRME"
+    },
+    {
+      "links": [
+        {
+          "href": "https://www.rowenger.com/",
+          "text": "Blog"
+        },
+        {
+          "href": "https://www.rowenger.com/",
+          "text": "Sıkça Sorulan Sorular"
+        },
+        {
+          "href": "https://www.rowenger.com/iletisim",
+          "text": "Yardım"
+        }
+      ],
+      "title": "MÜŞTERİ HİZMETLERİ"
+    }
+  ],
+  "footerImages": [
+    {
+      "alt": "",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/e174aff8-2f6f-4730-a520-f0ae402fced5.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/567c1e39-f155-46c6-8100-e867620c6b85.jpg"
+    },
+    {
+      "alt": "YENİ LOGO1",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/61bbb898-a89c-45e9-93e1-a892e8b7487f.jpg"
+    },
+    {
+      "alt": "logo_band_colored@1X",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/8e2037a0-82cb-436c-a413-a18fd5aa0081.jpg"
+    },
+    {
+      "alt": "card finans",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/89725c07-f8f6-44ad-8f4c-5930bff5fdb5.jpg"
+    },
+    {
+      "alt": "axess",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/b9394d63-6b29-48a8-b99f-a1db7d09cba1.jpg"
+    },
+    {
+      "alt": "advantage",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/1f18ff15-9dae-4526-a962-e455311ef1af.jpg"
+    },
+    {
+      "alt": "world",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/8998a28b-3d3c-432a-b55e-ba102a2786cc.jpg"
+    },
+    {
+      "alt": "maximum",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/f2d1abc3-1f19-4f81-8cf9-29008e18ad5e.jpg"
+    },
+    {
+      "alt": "bonus",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/57e85a50-31f7-448e-953a-e6a3a206c727.jpg"
+    },
+    {
+      "alt": "",
+      "src": "https://static.ticimax.cloud/65809/uploads/footertasarim/9/b14a1144-9ad0-4ab3-a153-b9e8d457250c.jpg"
+    }
+  ],
+  "hero": [
+    {
+      "alt": "https://www.rowenger.com/rowenger-1200-watt-dual-smoothie-blender-kisisel-blender-cam-surahi-blender-meyve-sikacagi-siyah",
+      "href": "https://www.rowenger.com/rowenger-1200-watt-dual-smoothie-blender-kisisel-blender-cam-surahi-blender-meyve-sikacagi-siyah",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/httpswww.rowenger.comrowenger-1200-watt--9df9.jpg"
+    },
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/rowenger-ma15c-uv-led-isikli-5200mah-sarjli-elektrikli-sivrisinek-oldurucu-lamba-sinek-oldurucu",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-4b9e.jpg"
+    },
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/rowenger-row-500-misir-patlatma-makinesi-yagsiz-ve-saglikli-popcorn-100gr-kapasite1",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-9bfe.jpg"
+    },
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/yumurta-haslama-makinesi",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-80c4.jpg"
+    },
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/elektrikli-sinek-oldurucu",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-0b52.jpg"
+    },
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/rowenger-touch-row-07-yogurt-yapma-makinesi-dijital-zaman-ayarli-7li-cam-kavanoz",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/incele-145c.jpg"
+    },
+    {
+      "alt": "İncele",
+      "href": "https://www.rowenger.com/utu",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/title-8ec7c013-f.jpg"
+    },
+    {
+      "alt": "",
+      "href": "https://www.rowenger.com/",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/c686fed6-c34f-49b5-bb19-5551962969b4.jpg"
+    }
+  ],
+  "logo": {
+    "alt": "",
+    "src": "https://static.ticimax.cloud/65809/Uploads/HeaderTasarim/Header1/c4c0e47a-58a0-4bcb-9e7a-08a73b97a19a.jpg"
+  },
+  "mosaic": [
+    {
+      "alt": "title",
+      "href": "https://www.rowenger.com/rowenger-d-8036f-600watt-elektrikli-narenciye-sikacagi-portakal-sikacagi-meyve-sikacagi",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/title-9bea9009-7.jpg"
+    },
+    {
+      "alt": "title",
+      "href": "https://www.rowenger.com/rowenger-3in1-1200-watt-smoothie-blender-kisisel-blender-cam-surahi-blender-meyve-sikacagi",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/title-4c556567-c.jpg"
+    },
+    {
+      "alt": "title",
+      "href": "https://www.rowenger.com/rowenger-row-500-misir-patlatma-makinesi-yagsiz-ve-saglikli-popcorn-100gr-kapasite1",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/title-26e263d4-7.jpg"
+    },
+    {
+      "alt": "title",
+      "href": "https://www.rowenger.com/rowenger-08-egg-8li-yumurta-pisirme-makinesi-yumurta-haslama-makinesi-sesli-uyari",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/title-450c3c85-2.jpg"
+    },
+    {
+      "alt": "title",
+      "href": "https://www.rowenger.com/rowenger-fitmix-kisisel-smoothie-blender-kisisel-blender-600ml-meyve-sikacagi",
+      "src": "https://static.ticimax.cloud/65809/uploads/sayfatasarim/sayfa17/title-b4220538-f.jpg"
+    }
+  ],
+  "nav": [],
+  "newsletter": {
+    "description": "Hemen Kayıt Ol Fırsatlardan Önce Sen Haberdar Ol!",
+    "title": "Size Özel Kampanyalar"
+  },
+  "social": 4
+}

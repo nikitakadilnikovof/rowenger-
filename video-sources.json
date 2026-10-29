@@ -1,0 +1,17 @@
+[
+  {
+    "id": "coffee",
+    "source": "https://st.bork.ru/home-page/spec2-desk.mp4",
+    "page": "https://www.bork.ru/"
+  },
+  {
+    "id": "cooking",
+    "source": "https://storage.yandexcloud.net/videoservice/prod/home-page/g510-26-desk/playlist.m3u8",
+    "page": "https://www.bork.ru/"
+  },
+  {
+    "id": "living",
+    "source": "https://storage.yandexcloud.net/videoservice/prod/home-page/tableware-desktop/playlist.m3u8",
+    "page": "https://www.bork.ru/"
+  }
+]

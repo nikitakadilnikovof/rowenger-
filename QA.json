@@ -1,0 +1,28 @@
+{
+  "source": "https://www.rowenger.com/",
+  "captured": "2026-10-27",
+  "updated": "2026-10-28",
+  "assets": 49,
+  "slides": 8,
+  "mainSections": 10,
+  "videoSections": 3,
+  "videoSource": "https://www.bork.ru/",
+  "localVideos": true,
+  "productCards": 18,
+  "footerGroups": 4,
+  "contentAudit": "passed",
+  "localImages": true,
+  "originalTrackingScriptsCopied": false,
+  "scrolling": "Native CSS scroll snapping with sticky overlapping sections; no wheel interception; reduced-motion fallback.",
+  "integration": "Static prototype. Product and category links lead to the original store. Newsletter never submits an address. Account dialog links to original store.",
+  "browserChecks": [
+    "1920x1080: 5 product columns, no overflow",
+    "1440x900: 4 product columns, all 3 videos playing",
+    "768x1024: tablet layout, no overflow",
+    "390x844: mobile layout, video playing, menu opens",
+    "Standalone HTML: data-URI videos play without external files",
+    "Sticky overlap: previous section pinned at 120px while next covers at 540px",
+    "Video pause and resume",
+    "Chapter navigation forward and backward"
+  ]
+}
